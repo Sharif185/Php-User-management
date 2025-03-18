@@ -4,3 +4,5 @@
 2) A login form if user is already registered.
 3) The login form has remember me functionality, forgot password
 4) The forgot password allows users to recover their passwords via email
+5) users can upload a profile picture
+6) users can edit their records.
